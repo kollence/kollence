@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kollence
 - 👀 I’m interested in web development front-end, back-end full-stack
-- 🌱 I’m currently learning full stack tec
+- 🌱 I’m currently learning docker
 - 💞️ I’m looking to collaborate on any projects that I could fit for a job
 - 📫 How to reach me misterija@gmail.com
 
